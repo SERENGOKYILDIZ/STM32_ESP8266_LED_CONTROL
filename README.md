@@ -7,7 +7,7 @@ LED control with ESP8266 using STM32 is a project
   - [ESP8266 Pinout](#esp8266-pinout)<br/>
   - [Circuit](#circuit)<br/>
   - [Main Code](#code-mainc)<br/>
-  - [ESP8266 HAL Code](#code-esp8266halc)<br/>
+  - [ESP8266 HAL Code](#code-esp8266_halc)<br/>
 
 ## NOTE
 > [!NOTE]
