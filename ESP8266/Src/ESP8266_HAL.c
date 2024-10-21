@@ -1,11 +1,3 @@
-/*
- * ESP8266_HAL.c
- *
- *  Created on: Apr 14, 2020
- *      Author: Controllerstech
- */
-
-
 #include "UartRingbuffer_multi.h"
 #include "ESP8266_HAL.h"
 #include "stdio.h"

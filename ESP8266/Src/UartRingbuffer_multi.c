@@ -1,10 +1,3 @@
-/*
- * UartRingbuffer.c
- *
- *  Created on: 10-Jul-2019
- *      Author: Controllerstech
- */
-
 #include "UartRingbuffer_multi.h"
 #include <string.h>
 
